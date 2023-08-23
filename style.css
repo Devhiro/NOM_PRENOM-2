@@ -1,6 +1,7 @@
 
         body {
-                background: linear-gradient(25deg,green, 99fef, white );
+               background-image: url('https://github.com/Devhiro/NOM_PRENOM-2/blob/main/photo%20montagne.jpg?raw=true');">
+                  <li style="font-size: 20px; padding: 10px; "><b>Ski</b></li>
                 padding: 20px;
                 height: 720px;
                 color: white;
